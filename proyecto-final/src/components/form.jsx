@@ -1,6 +1,5 @@
 import React, { useState } from "react";
-import SweetAlert2 from "react-sweetalert2";
-import "sweetalert2/dist/sweetalert2.min.css";
+import Swal from 'sweetalert2';
 
 
 const TareaFormulario = ({ crearTarea }) => {
@@ -45,18 +44,16 @@ const TareaFormulario = ({ crearTarea }) => {
             {error ? (
                 <span className="errorMsg">No puede crear una tarea sin texto!</span>
             ) : null}
-            <SweetAlert2
-                show={alerta}
-                text="Tarea creada!"
-                icon="success"
-                iconColor="#646cff"
-                background="#131313"
-                backdrop="rgba(0,0,0,0.8)"
-                
-                confirmButtonText="Yippie"
-                onConfirm={() => setAlerta(false)}
-            />
-
+        {alerta ? (
+            Swal.fire({
+                text: "Tarea creada!",
+                icon: 'success',
+                iconColor: "#646cff",
+                background: "#131313",
+                backdrop: "rgba(0,0,0,0.8)",
+                confirmButtonText: 'Confirmar'
+                }) && setAlerta(false)
+        ) : null}
         </div>
     );
 };
