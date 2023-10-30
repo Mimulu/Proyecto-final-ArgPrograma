@@ -6,11 +6,12 @@ Proyecto final de Argentina Programa
 
 Alumna: Micaela Gonzalez
 
-![proyectofinal](https://github.com/Mimulu/Proyecto-final-ArgPrograma/assets/85315009/47c1da70-cc27-4529-b420-ecc05fd540c5)
+![proyectofinal](https://github.com/Mimulu/Proyecto-final-ArgPrograma/assets/85315009/e656b281-953c-49ac-befb-5708f6d89055)
+![Captura de pantalla 2023-10-30 093752](https://github.com/Mimulu/Proyecto-final-ArgPrograma/assets/85315009/55a6a23c-880b-41dc-af5b-64b20513a376)
+![Captura de pantalla 2023-10-30 093844](https://github.com/Mimulu/Proyecto-final-ArgPrograma/assets/85315009/5a5267b0-1738-4f85-8d9d-854cb91d1360)
+![Captura de pantalla 2023-10-30 094034](https://github.com/Mimulu/Proyecto-final-ArgPrograma/assets/85315009/cf019d48-1434-4dc0-8804-b15d690929f7)
+![Captura de pantalla 2023-10-30 094144](https://github.com/Mimulu/Proyecto-final-ArgPrograma/assets/85315009/cf525c99-e872-4087-bf47-c9e26d24afdd)
 
-![image](https://github.com/Mimulu/Proyecto-final-ArgPrograma/assets/85315009/244ec36d-e708-4f36-bf9e-98a339035958)
-![image](https://github.com/Mimulu/Proyecto-final-ArgPrograma/assets/85315009/5e91789d-6689-420d-85b1-580051e2c507)
-![image](https://github.com/Mimulu/Proyecto-final-ArgPrograma/assets/85315009/27526b39-fcc7-43de-81bf-d60745616181)
-![image](https://github.com/Mimulu/Proyecto-final-ArgPrograma/assets/85315009/89adcd8c-02da-4247-91d1-2a537cd4fd9a)
+
 
 Aun tengo que modificar el styling del checkbox y alguna que otra cosita
