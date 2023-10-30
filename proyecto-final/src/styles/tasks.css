@@ -1,0 +1,51 @@
+li{
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    margin-bottom: 0.8rem;
+    background-color: #9578ff;
+    border-radius: 10px;
+    border-bottom: 2px solid #646cff;
+}
+
+span{
+    width: 70%;
+    overflow-wrap: break-word;
+}
+
+.removeBtn{
+        border-radius: 10px;
+        border: 2px solid #925dff;
+        padding: 0.6em 1.2em;
+        cursor: pointer;
+      }  
+
+
+
+.trashIcon{
+    width: 30px;
+    height: 30px;
+    color: #646cff;
+    cursor: pointer;
+}
+
+/* .checkbox {
+    width: 20px;
+    height: 20px;
+     display: none; 
+}
+*/
+
+.checkbox{
+    width:20px;
+    height:20px;
+    cursor:pointer;
+}
+
+.checkbox:hover{
+    cursor: pointer;
+}
+
+

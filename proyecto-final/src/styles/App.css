@@ -1,0 +1,27 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    font-weight: 400;
+  }
+
+body {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  display: flex;
+  place-items: center;
+  place-content: center;
+  min-height: 100vh;
+  color: white;
+}
+
+body, .addBtn, .removeBtn{
+  background: rgb(97,210,254);
+  background: linear-gradient(215deg, rgba(97,210,254,1) 0%, rgba(146,93,255,1) 100%);
+}
+
+.container {
+  background-color: #131313;
+  border-radius: 10px;
+}
